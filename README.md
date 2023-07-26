@@ -1,4 +1,4 @@
-[![VIEWS](https://img.shields.io/github/views/JINN1368/NRO_FREE/total.svg)]()
+[![VIEWS](https://img.shields.io/github/watching/JINN1368/NRO_FREE/total.svg)]()
 # CÀI ĐẶT
 - **TERMUX (CHPLAY)**
 - **KSWEB + SQL [32BIT](https://web1s.info/myMO7Y1AVT) VÀ [64BIT](https://web1s.info/3IANrICchx)(MỚI NHẤT)**
