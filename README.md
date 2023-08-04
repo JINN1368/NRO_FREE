@@ -11,7 +11,9 @@
   cd NRO_FREE && python mainMenu.py
   ```
 # LƯU Ý
-* **DB1.SQL - mad, DB2.SQL - mad2, DB3.SQL - mad3**
+* **DB1.SQL - mad**
+* **DB2.SQL - mad2**
+* **DB3.SQL - mad3**
 # THÔNG TIN 
 * **ZALO, MBBANK, MOMO: 0853035354**
 * **YOUTUBE: [JINN](https://www.youtube.com/@JINN1368)**
