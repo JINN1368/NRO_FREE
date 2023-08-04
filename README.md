@@ -1,6 +1,7 @@
 # CÀI ĐẶT
 - **TERMUX (CHPLAY)**
-- **[KSWEB](https://web1s.info/lkDW4cDUpU)  [SQL](https://web1s.info/7QSGqhbG31)**
+- **[KSWEB](https://web1s.info/lkDW4cDUpU)**
+- **[SQL](https://web1s.info/7QSGqhbG31)**
 - **[APK](https://github.com/JINN1368/NRO_FREE/releases/tag/APK)**
 - **LỆNH CÀI ĐẶT**
   ```
