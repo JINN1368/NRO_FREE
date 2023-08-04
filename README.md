@@ -1,7 +1,6 @@
 # CÀI ĐẶT
 - **TERMUX (CHPLAY)**
-- **KSWEB + SQL [32BIT](https://web1s.info/myMO7Y1AVT) VÀ [64BIT](https://web1s.info/3IANrICchx)(ĐÃ XOÁ)**
-- **[KSWEB + SQL](https://web1s.info/lkDW4cDUpU)( NẾU GẶP LỖI 2 PHIÊN BẢN TRÊN )**
+- **[KSWEB](https://web1s.info/lkDW4cDUpU)  [SQL](https://web1s.info/7QSGqhbG31)**
 - **[APK](https://github.com/JINN1368/NRO_FREE/releases/tag/APK)**
 - **LỆNH CÀI ĐẶT**
   ```
@@ -11,6 +10,8 @@
   ```
   cd NRO_FREE && python mainMenu.py
   ```
+# LƯU Ý
+* **DB1.SQL - mad, DB2.SQL - mad2, DB3.SQL - mad3**
 # THÔNG TIN 
 * **ZALO, MBBANK, MOMO: 0853035354**
 * **YOUTUBE: [JINN](https://www.youtube.com/@JINN1368)**
