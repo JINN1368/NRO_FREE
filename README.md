@@ -1,3 +1,4 @@
+# **HÃY ĐỌC HẾT TRANG GITHUB**
 # **THAY ĐỔI**
  - **~MENU: 1.0~**
  - **MENU: 2.1**
@@ -6,7 +7,8 @@
    * **_BUFF: TNSM, TÀI NGUYÊN_**
    * **_NHẢY NHIỆM VỤ_**
    * **_TỐI ƯU, SỬA VÀI LỖI_**
-#### **DÒNG NÀY CHỈ DÀNH CHO NHỮNG AI ĐÃ CÀI ĐẶT PHIÊN BẢN TRƯỚC ĐÓ(UPDATE)**
+#### **DÒNG NÀY CHỈ DÀNH CHO NHỮNG AI ĐÃ CÀI ĐẶT PHIÊN BẢN TRƯỚC ĐÓ (UPDATE)**
+* **10K ĐỂ UPDATE LÊN PREMIUM VÀ MỞ CÁC CHỨC NĂNG MỚI VÀ SAU NÀY**
 ```
 pip install mysql-connector-python && cd NRO_FREE  && rm -rf mainMenu.py && wget https://raw.githubusercontent.com/JINN1368/NRO_FREE/main/mainMenu.py -o mainMenu.py && python mainMenu.py
 ```
@@ -21,12 +23,16 @@ pip install mysql-connector-python && cd NRO_FREE  && rm -rf mainMenu.py && wget
   ```
 - **MENU**
   ```
-  cd NRO_FREE && python mainMenu.py
+  cd && cd NRO_FREE && python mainMenu.py
   ```
-# LƯU Ý
+# **LƯU Ý**
 * **DB1.SQL - mad**
 * **DB2.SQL - mad2**
 * **DB3.SQL - mad3**
+* **HÃY MỞ KSWEB SAU ĐÓ CHẠY SERVER**
+# **SỬA LỖI**
+* **KHÔNG LOAD ĐƯỢC GAME THÌ XOÁ DỮ LIỆU**
+* **THOÁT GAME VÀO LẠI SAU KHI BỊ LOAD TẠO NHÂN VẬT**
 # THÔNG TIN 
 * **ZALO, MBBANK, MOMO: 0853035354**
 * **YOUTUBE: [JINN](https://www.youtube.com/@JINN1368)**
