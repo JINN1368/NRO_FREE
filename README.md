@@ -23,7 +23,10 @@ pip install mysql-connector-python && cd NRO_FREE  && rm -rf mainMenu.py && wget
   ```
 - **MENU**
   ```
-  cd && cd NRO_FREE && python mainMenu.py
+  cd NRO_FREE
+  ```
+  ```
+  python mainMenu.py
   ```
 # **LƯU Ý**
 * **DB1.SQL - mad**
