@@ -6,7 +6,7 @@
   * **_BUFF: TNSM, TÀI NGUYÊN_**
   * **_NHẢY NHIỆM VỤ_**
   * **_TỐI ƯU, SỬA VÀI LỖI_**
-- DÒNG NÀY CHỈ DÀNH CHO NHỮNG AI ĐÃ CÀI ĐẶT PHIÊN BẢN TRƯỚC ĐÓ(UPDATE)
+# **DÒNG NÀY CHỈ DÀNH CHO NHỮNG AI ĐÃ CÀI ĐẶT PHIÊN BẢN TRƯỚC ĐÓ(UPDATE)**
 ```
 pip install mysql-connector-python && rm -rf NRO_FREE && git clone https://github.com/JINN1368/NRO_FREE && cd NRO_FREE && mainMenu.py
 ```
