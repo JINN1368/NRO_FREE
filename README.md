@@ -2,7 +2,7 @@
 <p>
   <img alt="Github Download" src="https://img.shields.io/github/downloads/JINN1368/NRO_FREE/total.svg?style=for-the-badge" />
   <img alt="Github Releases" src="https://img.shields.io/github/release/JINN1368/NRO_FREE.svg?style=for-the-badge"/>
-</p
+</p>
 # **THAY ĐỔI**
  - **~MENU: 1.0~**
  - **MENU: 2.1**
