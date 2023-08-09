@@ -11,7 +11,7 @@
 pip install mysql-connector-python && cd NRO_FREE  && rm -rf mainMenu.py && wget https://raw.githubusercontent.com/JINN1368/NRO_FREE/main/mainMenu.py -o mainMenu.py && python mainMenu.py
 ```
 # **CÀI ĐẶT**
-- **TERMUX (CHPLAY)**
+- **[TERMUX](https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_x86_64.apk)**
 - **[KSWEB](https://web1s.info/lkDW4cDUpU)**
 - **[SQL](https://web1s.info/7QSGqhbG31)**
 - **[APK](https://github.com/JINN1368/NRO_FREE/releases/tag/APK)**
