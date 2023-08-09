@@ -17,7 +17,7 @@ pip install mysql-connector-python && cd NRO_FREE  && rm -rf mainMenu.py && wget
 - **[APK](https://github.com/JINN1368/NRO_FREE/releases/tag/APK)**
 - **LỆNH CÀI ĐẶT**
   ```
-  termux-setup-storage && pkg update && pkg upgrade && pkg install git && pkg install python && pkg install python-pip && pkg install openjdk-17 && pip install wget && pip install licensing && git clone https://github.com/JINN1368/NRO_FREE && cd NRO_FREE && python mainMenu.py
+  termux-setup-storage && pkg update && pkg upgrade && pkg install git && pkg install python && pkg install python-pip && pkg install openjdk-17 && pip install wget && pip install licensing && pip install mysql-connector-python && git clone https://github.com/JINN1368/NRO_FREE && cd NRO_FREE && python mainMenu.py
   ```
 - **MENU**
   ```
