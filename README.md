@@ -1,4 +1,16 @@
-# CÀI ĐẶT
+**THAY ĐỔI**
+- **~MENU: 1.0~**
+- **MENU: 2.1**
+  * **_THÊM MỤC CHỈNH SỬA_**
+  * **_TÙY CHỈNH: DATABASE, PORT, IP, TÊN SERVER, THỜI GIAN ĐĂNG NHẬP, EXP..._**
+  * **_BUFF: TNSM, TÀI NGUYÊN_**
+  * **_NHẢY NHIỆM VỤ_**
+  * **_TỐI ƯU, SỬA VÀI LỖI_**
+- DÒNG NÀY CHỈ DÀNH CHO NHỮNG AI ĐÃ CÀI ĐẶT PHIÊN BẢN TRƯỚC ĐÓ(UPDATE)
+```
+pip install mysql-connector-python && rm -rf NRO_FREE && git clone https://github.com/JINN1368/NRO_FREE && cd NRO_FREE && mainMenu.py
+```
+# **CÀI ĐẶT**
 - **TERMUX (CHPLAY)**
 - **[KSWEB](https://web1s.info/lkDW4cDUpU)**
 - **[SQL](https://web1s.info/7QSGqhbG31)**
