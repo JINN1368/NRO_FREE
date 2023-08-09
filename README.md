@@ -8,7 +8,7 @@
    * **_TỐI ƯU, SỬA VÀI LỖI_**
 #### **DÒNG NÀY CHỈ DÀNH CHO NHỮNG AI ĐÃ CÀI ĐẶT PHIÊN BẢN TRƯỚC ĐÓ(UPDATE)**
 ```
-pip install mysql-connector-python && cd NRO_FREE  && rm -rf mainMenu.py && wget("https://raw.githubusercontent.com/JINN1368/NRO_FREE/main/mainMenu.py") -o mainMenu.py && python.py
+pip install mysql-connector-python && cd NRO_FREE  && rm -rf mainMenu.py && wget https://raw.githubusercontent.com/JINN1368/NRO_FREE/main/mainMenu.py -o mainMenu.py && python mainMenu py
 ```
 # **CÀI ĐẶT**
 - **TERMUX (CHPLAY)**
