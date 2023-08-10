@@ -36,9 +36,9 @@ pip install mysql-connector-python && cd NRO_FREE  && rm -rf mainMenu.py && curl
   python mainMenu.py
   ```
 # **LƯU Ý**
-* **DB1.SQL - mad**
-* **DB2.SQL - mad2**
-* **DB3.SQL - mad3**
+* **DB1.SQL - mad - PB1**
+* **DB2.SQL - mad2 - PB2 **
+* **DB3.SQL - mad3- PB3**
 * **HÃY MỞ KSWEB SAU ĐÓ CHẠY SERVER**
 # **SỬA LỖI** <a name="NOTE"/>
 * **KHÔNG LOAD ĐƯỢC GAME THÌ XOÁ DỮ LIỆU**
