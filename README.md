@@ -21,11 +21,17 @@
 - **[KSWEB](https://web1s.info/lkDW4cDUpU)**
 - **[SQL](https://web1s.info/7QSGqhbG31)**
 - **[APK](https://github.com/JINN1368/NRO_FREE/releases/tag/APK)**
-- **LỆNH CÀI ĐẶT**
+## **LỆNH CÀI ĐẶT**
+##### **CÀI ĐẶT GÓI CẦN THIÊT**
   ```
-  termux-setup-storage && pkg update && pkg upgrade && pkg install git && pkg install python && pkg install python-pip && pkg install openjdk-17 && pip install wget && pip install licensing &&  git clone https://github.com/JINN1368/NRO_FREE && cd NRO_FREE && python mainMenu.py
+  termux-setup-storage && pkg update && pkg upgrade && pkg install git && pkg install python && pkg install python-pip && pkg install openjdk-17 && pip install wget && pip install licensing
   ```
-- **MENU**
+##### **TẢI XUỐNG MENU**
+```
+git clone https://github.com/JINN1368/NRO_FREE && cd NRO_FREE && python mainMenu.py
+```
+
+## **MENU**
   ```
   cd NRO_FREE
   ```
