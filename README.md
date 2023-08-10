@@ -1,7 +1,8 @@
 # **HÃY ĐỌC HẾT TRANG GITHUB**
 ### MỤC LỤC
-1. **[THÔNG TIN CẬP NHẬT](#CHANGELOG)**
-2. 
+- **[THÔNG TIN CẬP NHẬT](#CHANGELOG)**
+- **[CÁCH CÀI ĐẶT](#SETUP)**
+- **[SỬA LỖI](#NOTE)**
 <p>
   <img alt="Github Download" src="https://img.shields.io/github/downloads/JINN1368/NRO_FREE/total.svg?style=for-the-badge" />
   <img alt="Github Releases" src="https://img.shields.io/github/release/JINN1368/NRO_FREE.svg?style=for-the-badge"/>
@@ -18,7 +19,7 @@
 ```
 pip install mysql-connector-python && cd NRO_FREE  && rm -rf mainMenu.py && curl https://raw.githubusercontent.com/JINN1368/NRO_FREE/main/mainMenu.py -o mainMenu.py && python mainMenu.py
 ```
-# **CÀI ĐẶT**
+# **CÀI ĐẶT** <a name="SETUP"/>
 - **[TERMUX](https://github.com/termux/termux-app/releases/tag/v0.118.0)**
 - **[KSWEB](https://web1s.info/lkDW4cDUpU)**
 - **[SQL](https://web1s.info/7QSGqhbG31)**
@@ -39,7 +40,7 @@ pip install mysql-connector-python && cd NRO_FREE  && rm -rf mainMenu.py && curl
 * **DB2.SQL - mad2**
 * **DB3.SQL - mad3**
 * **HÃY MỞ KSWEB SAU ĐÓ CHẠY SERVER**
-# **SỬA LỖI**
+# **SỬA LỖI** <a name="NOTE"/>
 * **KHÔNG LOAD ĐƯỢC GAME THÌ XOÁ DỮ LIỆU**
 * **THOÁT GAME VÀO LẠI SAU KHI BỊ LOAD TẠO NHÂN VẬT**
 # THÔNG TIN 
