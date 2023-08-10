@@ -37,7 +37,7 @@ pip install mysql-connector-python && cd NRO_FREE  && rm -rf mainMenu.py && curl
   ```
 # **LƯU Ý**
 * **DB1.SQL - mad - PB1**
-* **DB2.SQL - mad2 - PB2 **
+* **DB2.SQL - mad2 - PB2**
 * **DB3.SQL - mad3- PB3**
 * **HÃY MỞ KSWEB SAU ĐÓ CHẠY SERVER**
 # **SỬA LỖI** <a name="NOTE"/>
