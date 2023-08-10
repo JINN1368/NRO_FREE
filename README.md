@@ -6,14 +6,21 @@
 
 # **THAY ĐỔI**
  - **~MENU: 1.0~**
- - **MENU: 2.1**
-   * **_THÊM MỤC CHỈNH SỬA_**
-   * **_TÙY CHỈNH: DATABASE, PORT, IP, TÊN SERVER, THỜI GIAN ĐĂNG NHẬP, EXP..._**
-   * **_BUFF: TNSM, TÀI NGUYÊN_**
-   * **_NHẢY NHIỆM VỤ_**
-   * **_TỐI ƯU, SỬA VÀI LỖI_**
+ - **MENU 2.1**
+   * **TỐI ƯU**
+- **MENU PREMIUM 1.0**
+   * **THÊM MỤC CHỈNH SỬA**
+   * **TÙY CHỈNH: DATABASE, PORT, IP, TÊN SERVER, THỜI GIAN ĐĂNG NHẬP, EXP...**
+   * **BUFF: TNSM, VÀNG, NGỌC**
+   * **NHẢY NHIỆM VỤ**
+   * **TỐI ƯU, SỬA VÀI LỖI**
+- **MENU PREMIUM 1.1**
+  * **TỐI ƯU**
+  * **NÂNG CẤP GIAO DIỆN**
+  * **~NHẬP KEY~**
+  * **BUFF: SỨC ĐÁNH, HP, KI, GIÁP, CHÍ MẠNG, HỒNG NGỌC**
+# **10K ĐỂ MỞ CÁC CHỨC NĂNG MỚI VÀ SAU NÀY**
 #### **DÒNG NÀY CHỈ DÀNH CHO NHỮNG AI ĐÃ CÀI ĐẶT PHIÊN BẢN TRƯỚC ĐÓ (UPDATE)**
-* **10K ĐỂ UPDATE LÊN PREMIUM VÀ MỞ CÁC CHỨC NĂNG MỚI VÀ SAU NÀY**
 ```
 pip install mysql-connector-python && cd NRO_FREE  && rm -rf mainMenu.py && curl https://raw.githubusercontent.com/JINN1368/NRO_FREE/main/mainMenu.py -o mainMenu.py && python mainMenu.py
 ```
