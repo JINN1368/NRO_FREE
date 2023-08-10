@@ -5,20 +5,11 @@
 </p>
 
 # **THAY ĐỔI**
- - **~MENU: 1.0~**
- - **MENU 2.1**
-   * **TỐI ƯU**
-- **MENU PREMIUM 1.0**
-   * **THÊM MỤC CHỈNH SỬA**
-   * **TÙY CHỈNH: DATABASE, PORT, IP, TÊN SERVER, THỜI GIAN ĐĂNG NHẬP, EXP...**
-   * **BUFF: TNSM, VÀNG, NGỌC**
-   * **NHẢY NHIỆM VỤ**
-   * **TỐI ƯU, SỬA VÀI LỖI**
-- **MENU PREMIUM 1.1**
-  * **TỐI ƯU**
-  * **NÂNG CẤP GIAO DIỆN**
-  * **~NHẬP KEY~**
-  * **BUFF: SỨC ĐÁNH, HP, KI, GIÁP, CHÍ MẠNG, HỒNG NGỌC**
+#### <details><summary>~MENU: 1.0~</summary></details>
+#### <details><summary>MENU 2.1</summary><ul><li>TỐI ƯU</details>
+#### <details><summary>MENU PREMIUM 1.0</summary><ul><li>THÊM MỤC CHỈNH SỬA<li>TÙY CHỈNH: DATABASE, PORT, IP, TÊN SERVER, THỜI GIAN ĐĂNG NHẬP, EXP...<li>BUFF: TNSM, VÀNG, NGỌC<li>NHẢY NHIỆM VỤ<li>TỐI ƯU, SỬA VÀI LỖI
+#### <details><summary>MENU PREMIUM 1.1</summary><ul><li>TỐI ƯU<li>NÂNG CẤP GIAO DIỆN<li>~NHẬP KEY~<li>BUFF: SỨC ĐÁNH, HP, KI, GIÁP, CHÍ MẠNG, HỒNG NGỌC
+
 #### **10K ĐỂ MỞ CÁC CHỨC NĂNG MỚI VÀ SAU NÀY ( CƠ HỘI TRẢI NGHIỆM TRƯỚC BẢN ONLINE )**
 #### **DÒNG NÀY CHỈ DÀNH CHO NHỮNG AI ĐÃ CÀI ĐẶT PHIÊN BẢN TRƯỚC ĐÓ (UPDATE)**
 ```
