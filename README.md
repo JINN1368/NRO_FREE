@@ -13,12 +13,9 @@
 #### <details><summary>MENU 2.1</summary><ul><li>TỐI ƯU</details>
 #### <details><summary>MENU PREMIUM 1.0</summary><ul><li>THÊM MỤC CHỈNH SỬA<li>TÙY CHỈNH: DATABASE, PORT, IP, TÊN SERVER, THỜI GIAN ĐĂNG NHẬP, EXP...<li>BUFF: TNSM, VÀNG, NGỌC<li>NHẢY NHIỆM VỤ<li>TỐI ƯU, SỬA VÀI LỖI
 #### <details><summary>MENU PREMIUM 1.1</summary><ul><li>CÁC CHỨC NĂNG 1.0<li>TỐI ƯU<li>NÂNG CẤP GIAO DIỆN<li>~NHẬP KEY~<li>BUFF: SỨC ĐÁNH, HP, KI, GIÁP, CHÍ MẠNG, HỒNG NGỌC
+#### <details><summary>10/08/2023</summary><ul><li>TỐI GIẢN<li>SỬA LỖI KEY KHÔNG HỢP LỆ
 
 #### **10K ĐỂ MỞ CÁC CHỨC NĂNG MỚI VÀ SAU NÀY ( CƠ HỘI TRẢI NGHIỆM TRƯỚC BẢN ONLINE )**
-#### **DÒNG NÀY CHỈ DÀNH CHO NHỮNG AI ĐÃ CÀI ĐẶT PHIÊN BẢN TRƯỚC ĐÓ (UPDATE 09/08/2023)**
-```
-pip install mysql-connector-python && cd NRO_FREE  && rm -rf mainMenu.py && curl https://raw.githubusercontent.com/JINN1368/NRO_FREE/main/mainMenu.py -o mainMenu.py && python mainMenu.py
-```
 # **CÀI ĐẶT** <a name="SETUP"/>
 - **[TERMUX](https://github.com/termux/termux-app/releases/tag/v0.118.0)**
 - **[KSWEB](https://web1s.info/lkDW4cDUpU)**
@@ -26,7 +23,7 @@ pip install mysql-connector-python && cd NRO_FREE  && rm -rf mainMenu.py && curl
 - **[APK](https://github.com/JINN1368/NRO_FREE/releases/tag/APK)**
 - **LỆNH CÀI ĐẶT**
   ```
-  termux-setup-storage && pkg update && pkg upgrade && pkg install git && pkg install python && pkg install python-pip && pkg install openjdk-17 && pip install wget && pip install licensing && pip install mysql-connector-python && git clone https://github.com/JINN1368/NRO_FREE && cd NRO_FREE && python mainMenu.py
+  termux-setup-storage && pkg update && pkg upgrade && pkg install git && pkg install python && pkg install python-pip && pkg install openjdk-17 && pip install wget && pip install licensing &&  git clone https://github.com/JINN1368/NRO_FREE && cd NRO_FREE && python mainMenu.py
   ```
 - **MENU**
   ```
