@@ -6,7 +6,7 @@
   <img alt="Github Releases" src="https://img.shields.io/github/release/JINN1368/NRO_FREE.svg?style=for-the-badge"/>
 </p>
 
-# **THAY ĐỔI**
+# **THAY ĐỔI** <a name="THAY_ĐỔI"></a>
 #### <details><summary>~MENU: 1.0~</summary></details>
 #### <details><summary>MENU 2.1</summary><ul><li>TỐI ƯU</details>
 #### <details><summary>MENU PREMIUM 1.0</summary><ul><li>THÊM MỤC CHỈNH SỬA<li>TÙY CHỈNH: DATABASE, PORT, IP, TÊN SERVER, THỜI GIAN ĐĂNG NHẬP, EXP...<li>BUFF: TNSM, VÀNG, NGỌC<li>NHẢY NHIỆM VỤ<li>TỐI ƯU, SỬA VÀI LỖI
