@@ -32,6 +32,7 @@ git clone https://github.com/JINN1368/NRO_FREE && cd NRO_FREE && python mainMenu
 ```
 
 ## **MENU**
+- [LẤY KEY](https://web1s.info/LeQZMAPpyE)
   ```
   cd NRO_FREE
   ```
