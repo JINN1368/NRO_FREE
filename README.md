@@ -1,5 +1,5 @@
-# **HÃY ĐỌC HẾT TRANG GITHUB**
-### MỤC LỤC
+### **HÃY ĐỌC HẾT TRANG GITHUB**
+# MỤC LỤC
 - **[THÔNG TIN CẬP NHẬT](#CHANGELOG)**
 - **[CÁCH CÀI ĐẶT](#SETUP)**
 - **[SỬA LỖI](#NOTE)**
