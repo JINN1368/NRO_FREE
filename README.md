@@ -13,7 +13,7 @@
 #### <details><summary>MENU 2.1</summary><ul><li>TỐI ƯU</details>
 #### <details><summary>MENU PREMIUM 1.0</summary><ul><li>THÊM MỤC CHỈNH SỬA<li>TÙY CHỈNH: DATABASE, PORT, IP, TÊN SERVER, THỜI GIAN ĐĂNG NHẬP, EXP...<li>BUFF: TNSM, VÀNG, NGỌC<li>NHẢY NHIỆM VỤ<li>TỐI ƯU, SỬA VÀI LỖI
 #### <details><summary>MENU PREMIUM 1.1</summary><ul><li>CÁC CHỨC NĂNG 1.0<li>TỐI ƯU<li>NÂNG CẤP GIAO DIỆN<li>~NHẬP KEY~<li>BUFF: SỨC ĐÁNH, HP, KI, GIÁP, CHÍ MẠNG, HỒNG NGỌC
-#### <details><summary>10/08/2023</summary><ul><li>TỐI GIẢN<li>SỬA LỖI KEY KHÔNG HỢP LỆ
+#### <details><summary>10/08/2023</summary><ul><li>TỐI GIẢN<li>SỬA LỖI KEY KHÔNG HỢP LỆ<li>[HOT FIX] SỬA LỖI CHẠY SERVER
 
 #### **10K ĐỂ MỞ CÁC CHỨC NĂNG MỚI VÀ SAU NÀY ( CƠ HỘI TRẢI NGHIỆM TRƯỚC BẢN ONLINE )**
 # **CÀI ĐẶT** <a name="SETUP"/>
