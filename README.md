@@ -11,7 +11,7 @@
 #### <details><summary>MENU PREMIUM 1.1</summary><ul><li>TỐI ƯU<li>NÂNG CẤP GIAO DIỆN<li>~NHẬP KEY~<li>BUFF: SỨC ĐÁNH, HP, KI, GIÁP, CHÍ MẠNG, HỒNG NGỌC
 
 #### **10K ĐỂ MỞ CÁC CHỨC NĂNG MỚI VÀ SAU NÀY ( CƠ HỘI TRẢI NGHIỆM TRƯỚC BẢN ONLINE )**
-#### **DÒNG NÀY CHỈ DÀNH CHO NHỮNG AI ĐÃ CÀI ĐẶT PHIÊN BẢN TRƯỚC ĐÓ (UPDATE)**
+#### **DÒNG NÀY CHỈ DÀNH CHO NHỮNG AI ĐÃ CÀI ĐẶT PHIÊN BẢN TRƯỚC ĐÓ (UPDATE 09/08/2023)**
 ```
 pip install mysql-connector-python && cd NRO_FREE  && rm -rf mainMenu.py && curl https://raw.githubusercontent.com/JINN1368/NRO_FREE/main/mainMenu.py -o mainMenu.py && python mainMenu.py
 ```
