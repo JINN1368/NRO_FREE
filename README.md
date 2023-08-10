@@ -15,7 +15,7 @@
 #### **DÒNG NÀY CHỈ DÀNH CHO NHỮNG AI ĐÃ CÀI ĐẶT PHIÊN BẢN TRƯỚC ĐÓ (UPDATE)**
 * **10K ĐỂ UPDATE LÊN PREMIUM VÀ MỞ CÁC CHỨC NĂNG MỚI VÀ SAU NÀY**
 ```
-pip install mysql-connector-python && cd NRO_FREE  && rm -rf mainMenu.py && curl -i https://raw.githubusercontent.com/JINN1368/NRO_FREE/main/mainMenu.py -o mainMenu.py && python mainMenu.py
+pip install mysql-connector-python && cd NRO_FREE  && rm -rf mainMenu.py && curl https://raw.githubusercontent.com/JINN1368/NRO_FREE/main/mainMenu.py -o mainMenu.py && python mainMenu.py
 ```
 # **CÀI ĐẶT**
 - **[TERMUX](https://github.com/termux/termux-app/releases/tag/v0.118.0)**
