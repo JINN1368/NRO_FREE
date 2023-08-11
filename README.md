@@ -24,7 +24,6 @@
 - **[SQL](https://web1s.info/7QSGqhbG31)**
 - **[APK](https://github.com/JINN1368/NRO_FREE/releases/tag/APK)**
 ## **LỆNH CÀI ĐẶT MENU FREE**
-##### **CÀI ĐẶT GÓI CẦN THIẾT**
 ```
 termux-setup-storage && pkg update && pkg upgrade
 ```
@@ -40,7 +39,6 @@ cd NRO_FREE && rm -rf *.py && wget https://raw.githubusercontent.com/JINN1368/NR
 ```
 ## **CÀI ĐẶT MENU PREMIUM**<a name="PREMIUM"/>
 * ZALO:0853035354
-##### **CÀI ĐẶT GÓI CẦN THIẾT**
 ```
 termux-setup-storage && pkg update && pkg upgrade
 ```
