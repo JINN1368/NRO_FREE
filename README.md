@@ -29,7 +29,7 @@
 termux-setup-storage && pkg update && pkg upgrade
 ```
 ```
-pkg install mysql-connector-python && pkg install git && pkg install python && pkg install python-pip && pkg install openjdk-17 && pip install wget && pip install licensing
+pip install mysql-connector-python && pkg install git && pkg install python && pkg install python-pip && pkg install openjdk-17 && pip install wget && pip install licensing
 ```
 ##### **TẢI XUỐNG MENU**
 ```
