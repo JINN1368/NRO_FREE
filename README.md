@@ -23,24 +23,30 @@
 - **[KSWEB](https://web1s.info/lkDW4cDUpU)**
 - **[SQL](https://web1s.info/7QSGqhbG31)**
 - **[APK](https://github.com/JINN1368/NRO_FREE/releases/tag/APK)**
-## **LỆNH CÀI ĐẶT**
+## **LỆNH CÀI ĐẶT MENU FREE**
 ##### **CÀI ĐẶT GÓI CẦN THIẾT**
 ```
 termux-setup-storage && pkg update && pkg upgrade
 ```
 ```
-pip install mysql-connector-python && pkg install git && pkg install python && pkg install python-pip && pkg install openjdk-17 && pip install wget && pip install licensing
+pkg install git && pkg install python && pkg install python-pip && pkg install openjdk-17 && pip install wget && pip install licensing
 ```
-##### **TẢI XUỐNG MENU**
 ```
 git clone https://github.com/JINN1368/NRO_FREE && cd NRO_FREE && python mainMenu.py
 ```
-##### **UPDATE MENU**
+##### **UPDATE MENU ( KHI CÓ BẢN UPDATE ĐỂ KHÔNG MẤT DỮ LIỆU )**
 ```
 cd NRO_FREE && rm -rf *.py && wget https://raw.githubusercontent.com/JINN1368/NRO_FREE/main/mainMenu.py && python mainMenu.py
 ```
 ## **CÀI ĐẶT MENU PREMIUM**<a name="PREMIUM"/>
 * ZALO:0853035354
+##### **CÀI ĐẶT GÓI CẦN THIẾT**
+```
+termux-setup-storage && pkg update && pkg upgrade
+```
+```
+pkg install git && pkg install python && pkg install python-pip && pkg install openjdk-17 && pip install wget && pip install licensing && pip install mysql-connector-python
+```
 ```
 rm -rf NRO_FREE
 ```
