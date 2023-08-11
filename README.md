@@ -1,4 +1,5 @@
 ### **HÃY ĐỌC HẾT TRANG GITHUB**
+[TRANG WEB](https://jinn1368.github.io/JINN-PAGE)
 # MỤC LỤC
 - **[THÔNG TIN CẬP NHẬT](#CHANGELOG)**
 - **[CÁCH CÀI ĐẶT](#SETUP)**
