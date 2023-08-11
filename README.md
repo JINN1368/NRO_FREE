@@ -25,9 +25,12 @@
 - **[APK](https://github.com/JINN1368/NRO_FREE/releases/tag/APK)**
 ## **LỆNH CÀI ĐẶT**
 ##### **CÀI ĐẶT GÓI CẦN THIẾT**
-  ```
-  termux-setup-storage && pkg update && pkg upgrade && pkg install git && pkg install python && pkg install python-pip && pkg install openjdk-17 && pip install wget && pip install licensing
-  ```
+```
+termux-setup-storage && pkg update && pkg upgrade
+```
+```
+pkg install mysql-connector-python && pkg install git && pkg install python && pkg install python-pip && pkg install openjdk-17 && pip install wget && pip install licensing
+```
 ##### **TẢI XUỐNG MENU**
 ```
 git clone https://github.com/JINN1368/NRO_FREE && cd NRO_FREE && python mainMenu.py
