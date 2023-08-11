@@ -45,7 +45,7 @@ rm -rf NRO_FREE
 git clone https://github.com/JINN1368/NRO_FREE && cd NRO_FREE && rm -rf *.py && mv /storage/emulated/0/download/JINNCAMON.zip ~/NRO_FREE && unzip *.zip && python mainMenu.py
 ```
 
-## **MENU**
+## **MỞ MENU**
 - [LẤY KEY](https://web1s.info/LeQZMAPpyE)
   ```
   cd NRO_FREE
