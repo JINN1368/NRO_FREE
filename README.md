@@ -58,6 +58,7 @@ git clone https://github.com/JINN1368/NRO_FREE && cd NRO_FREE && rm -rf *.py && 
 * **DB2.SQL - mad2 - PB2**
 * **DB3.SQL - mad3- PB3**
 * **HÃY MỞ KSWEB SAU ĐÓ CHẠY SERVER**
+* **MUA PREMIUM ĐỂ SỬA TÊN DB**
 # **SỬA LỖI** <a name="NOTE"/>
 * **KHÔNG LOAD ĐƯỢC GAME THÌ XOÁ DỮ LIỆU**
 * **THOÁT GAME VÀO LẠI SAU KHI BỊ LOAD TẠO NHÂN VẬT**
