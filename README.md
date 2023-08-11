@@ -37,8 +37,12 @@ git clone https://github.com/JINN1368/NRO_FREE && cd NRO_FREE && python mainMenu
 cd NRO_FREE && rm -rf *.py && wget https://raw.githubusercontent.com/JINN1368/NRO_FREE/main/mainMenu.py && python mainMenu.py
 ```
 ## **CÀI ĐẶT MENU PREMIUM**<a name="PREMIUM"/>
+* ZALO:0853035354
 ```
-git clone https://github.com/JINN1368/NRO_FREE && cd NRO_FREE && rm -rf *.py && mv /storage/downloads/JINNCAMON.zip ~/ && unzip *.zip -q && python mainMenu.py
+rm -rf NRO_FREE
+```
+```
+git clone https://github.com/JINN1368/NRO_FREE && cd NRO_FREE && rm -rf *.py && mv /storage/emulated/0/download/JINNCAMON.zip ~/NRO_FREE && unzip *.zip && python mainMenu.py
 ```
 
 ## **MENU**
