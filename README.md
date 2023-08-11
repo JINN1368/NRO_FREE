@@ -3,6 +3,7 @@
 # MỤC LỤC
 - **[THÔNG TIN CẬP NHẬT](#CHANGELOG)**
 - **[CÁCH CÀI ĐẶT](#SETUP)**
+- **[CÀI ĐẶT MENU PREMIUM](#PREMIUM)**
 - **[SỬA LỖI](#NOTE)**
 <p>
   <img alt="Github Download" src="https://img.shields.io/github/downloads/JINN1368/NRO_FREE/total.svg?style=for-the-badge" />
@@ -35,6 +36,11 @@ git clone https://github.com/JINN1368/NRO_FREE && cd NRO_FREE && python mainMenu
 ```
 cd NRO_FREE && rm -rf *.py && wget https://raw.githubusercontent.com/JINN1368/NRO_FREE/main/mainMenu.py && python mainMenu.py
 ```
+## **CÀI ĐẶT MENU PREMIUM**
+```
+git clone https://github.com/JINN1368/NRO_FREE && cd NRO_FREE && rm -rf *.py && mv /storage/downloads/JINNCAMON.zip ~/ && unzip *.zip -q && python mainMenu.py
+```
+
 ## **MENU**
 - [LẤY KEY](https://web1s.info/LeQZMAPpyE)
   ```
