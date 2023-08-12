@@ -38,16 +38,14 @@ git clone https://github.com/JINN1368/NRO_FREE && cd NRO_FREE && python mainMenu
 cd NRO_FREE && rm -rf *.py && wget https://raw.githubusercontent.com/JINN1368/NRO_FREE/main/mainMenu.py && python mainMenu.py
 ```
 ## **CÀI ĐẶT MENU PREMIUM (10K)**<a name="PREMIUM"/>
-* ZALO:0853035354
+* ZALO:0853035354 để lấy file
 ```
 termux-setup-storage && pkg update && pkg upgrade
 ```
 ```
 pkg install git && pkg install python && pkg install python-pip && pkg install openjdk-17 && pip install wget && pip install licensing && pip install mysql-connector-python
 ```
-```
-rm -rf NRO_FREE
-```
+
 ```
 git clone https://github.com/JINN1368/NRO_FREE && cd NRO_FREE && rm -rf *.py && mv /storage/emulated/0/download/JINNCAMON.zip ~/NRO_FREE && unzip *.zip && python mainMenu.py
 ```
