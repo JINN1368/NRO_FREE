@@ -1,3 +1,9 @@
+# **THÔNG BÁO**
+### **PHIÊN BẢN NÀY SẼ NGỪNG HỖ TRỢ VÀ UPDATE**
+### **MENU PREMIUM VẪN TIẾP TỤC UPDATE**
+### **MUA MENU PREMIUM GIẢM 5K BẢN ONLINE**
+
+### **PHIÊN BẢN ONLINE SẮP CẬP BẾN**
 ### **HÃY ĐỌC HẾT TRANG GITHUB**
 [TRANG WEB](https://jinn1368.github.io/JINN-PAGE)
 # MỤC LỤC
