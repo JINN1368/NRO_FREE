@@ -43,7 +43,7 @@ git clone https://github.com/JINN1368/NRO_FREE && cd NRO_FREE && python mainMenu
 ```
 cd NRO_FREE && rm -rf *.py && wget https://raw.githubusercontent.com/JINN1368/NRO_FREE/main/mainMenu.py && python mainMenu.py
 ```
-## **CÀI ĐẶT MENU PREMIUM (10K)**<a name="PREMIUM"/>
+## **CÀI ĐẶT MENU PREMIUM (10K) ( HIỆN CHƯA BÁN )**<a name="PREMIUM"/>
 * ZALO:0853035354 để lấy file
 ```
 termux-setup-storage && pkg update && pkg upgrade
