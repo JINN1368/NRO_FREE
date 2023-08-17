@@ -57,7 +57,7 @@ git clone https://github.com/JINN1368/NRO_FREE && cd NRO_FREE && rm -rf *.py && 
 ```
 
 ## **MỞ MENU**
-- [LẤY KEY](https://web1s.info/LeQZMAPpyE)
+- [LẤY KEY](https://web1s.io/XYFEEYlNdu)
   ```
   cd NRO_FREE
   ```
