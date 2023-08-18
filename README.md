@@ -27,7 +27,7 @@
 # **CÀI ĐẶT** <a name="SETUP"/>
 - **[TERMUX](https://github.com/termux/termux-app/releases/tag/v0.118.0)**
 - **[KSWEB](https://web1s.info/lkDW4cDUpU)**
-- **[SQL](https://web1s.info/7QSGqhbG31)**
+- **[SQL](https://web1s.io/7QSGqhbG31)**
 - **[APK](https://github.com/JINN1368/NRO_FREE/releases/tag/APK)**
 ## **CÀI ĐẶT MENU FREE**
 ```
