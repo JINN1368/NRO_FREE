@@ -16,7 +16,7 @@
   <img alt="Github Releases" src="https://img.shields.io/github/release/JINN1368/NRO_FREE.svg?style=for-the-badge"/>
 </p>
 
-![GitHub watchers](https://img.shields.io/github/watchers/JINN1368/NRO_FREE?style=for-the-badge)
+![GitHub watchers](https://img.shields.io/github/watchers/JINN1368/NRO_FREE)
 
 # **THAY ĐỔI** <a name="CHANGELOG"></a>
 #### <details><summary>~MENU: 1.0~</summary></details>
