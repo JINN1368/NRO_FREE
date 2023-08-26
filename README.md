@@ -14,9 +14,9 @@
 <p>
   <img alt="Github Download" src="https://img.shields.io/github/downloads/JINN1368/NRO_FREE/total.svg?style=for-the-badge" />
   <img alt="Github Releases" src="https://img.shields.io/github/release/JINN1368/NRO_FREE.svg?style=for-the-badge"/>
-</p>
+ <img alt ="Github Watcher" src="https://img.shields.io/github/watchers/JINN1368/NRO_FREE?label=VIEWs&style=for-the-badge&color=blue"/>
 
-![GitHub watchers](https://img.shields.io/github/watchers/JINN1368/NRO_FREE)
+</p>
 
 # **THAY ĐỔI** <a name="CHANGELOG"></a>
 #### <details><summary>~MENU: 1.0~</summary></details>
