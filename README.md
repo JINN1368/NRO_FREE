@@ -16,6 +16,8 @@
   <img alt="Github Releases" src="https://img.shields.io/github/release/JINN1368/NRO_FREE.svg?style=for-the-badge"/>
 </p>
 
+[![HitCount](https://hits.dwyl.com/JINN1368/NRO_FREE.svg?style=flat-square&show=unique)](http://hits.dwyl.com/JINN/NRO_FREE)
+
 # **THAY ĐỔI** <a name="CHANGELOG"></a>
 #### <details><summary>~MENU: 1.0~</summary></details>
 #### <details><summary>MENU 2.1</summary><ul><li>TỐI ƯU</details>
