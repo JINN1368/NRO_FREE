@@ -39,7 +39,7 @@ cd NRO_FREE
 # **LƯU Ý**
 * **DB1.SQL - mad - PB1**
 * **DB2.SQL - mad2 - PB2**
-* **DB3.SQL - mad3- PB3**
+* **DB3.SQL - mad2- PB3**
 * **HÃY MỞ KSWEB SAU ĐÓ CHẠY SERVER**
 * **MUA PREMIUM ĐỂ SỬA TÊN DB**
 # **SỬA LỖI** <a name="NOTE"/>
