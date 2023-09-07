@@ -43,6 +43,12 @@ cd NRO_FREE
  ```
  python mainMenu.py
  ```
+## **GỠ CÀI ĐẶT**
+```
+B1: MỞ TERMUX
+B2: rm -rf NRO_FREE
+```
+
 # **LƯU Ý**
 * **DB1.SQL - mad - PB1**
 * **DB2.SQL - mad2 - PB2**
