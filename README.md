@@ -17,7 +17,7 @@
   <a href="  https://www.buymeacoffee.com/KnD1368" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 40px;" ></a>
 </div>
 
-# ĐÃ UPDATE PHIÊN BẢN 2.1.0 
+# ĐÃ UPDATE PHIÊN BẢN MỚI
 * CHI TIẾT: https://github.com/JINN1368/NRO_V2
 
 # THÔNG TIN 
