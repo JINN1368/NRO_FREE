@@ -16,48 +16,8 @@
   <br/>
   <a href="  https://www.buymeacoffee.com/KnD1368" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 40px;" ></a>
 </div>
-
-# **CÀI ĐẶT** <a name="SETUP"/>
-### **BƯỚC 1 ( TẢI XUỐNG TẤT CẢ )**
-- **[TERMUX](https://github.com/termux/termux-app/releases/tag/v0.118.0)**
-- **[KSWEB](https://web1s.info/lkDW4cDUpU)**
-- **[SQL](https://web1s.io/7QSGqhbG31)**
-- **[APK](https://github.com/JINN1368/NRO_FREE/releases/tag/APK)**
-### **BƯỚC 2 CÀI ĐẶT MENU**
-```
-termux-setup-storage
-```
-```
-pkg update && pkg upgrade
-```
-```
-pkg install git && pkg install python && pkg install python-pip && pkg install openjdk-17 && pip install wget && pip install requests
-```
-```
-git clone https://github.com/JINN1368/NRO_FREE && cd NRO_FREE && python mainMenu.py
-```
-## **MỞ MENU** [LẤY KEY](https://webtydo.com/XYFEEYlNdu)
-```
-cd NRO_FREE
- ```
- ```
- python mainMenu.py
- ```
-## **GỠ CÀI ĐẶT**
-```
-B1: MỞ TERMUX
-B2: rm -rf NRO_FREE
-```
-
-# **LƯU Ý**
-* **DB1.SQL - mad - PB1**
-* **DB2.SQL - mad2 - PB2**
-* **DB3.SQL - mad2- PB3**
-* **HÃY MỞ KSWEB SAU ĐÓ CHẠY SERVER**
-* **MUA PREMIUM ĐỂ SỬA TÊN DB**
-# **SỬA LỖI** <a name="NOTE"/>
-* **KHÔNG LOAD ĐƯỢC GAME THÌ XOÁ DỮ LIỆU**
-* **THOÁT GAME VÀO LẠI SAU KHI BỊ LOAD TẠO NHÂN VẬT**
+# ĐÃ UPDATE PHIÊN BẢN 2.1.0 
+* CHI TIẾT: https://github.com/JINN1368/NRO_V2
 # THÔNG TIN 
 * **ZALO, MBBANK, MOMO: 0853035354**
 * **YOUTUBE: [JINN](https://www.youtube.com/@JINN1368)**
