@@ -16,8 +16,10 @@
   <br/>
   <a href="  https://www.buymeacoffee.com/KnD1368" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 40px;" ></a>
 </div>
+
 # ĐÃ UPDATE PHIÊN BẢN 2.1.0 
 * CHI TIẾT: https://github.com/JINN1368/NRO_V2
+
 # THÔNG TIN 
 * **ZALO, MBBANK, MOMO: 0853035354**
 * **YOUTUBE: [JINN](https://www.youtube.com/@JINN1368)**
