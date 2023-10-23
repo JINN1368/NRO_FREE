@@ -1,5 +1,4 @@
 1:download
 2:server
-3:login
-4:main
+3:main
 
