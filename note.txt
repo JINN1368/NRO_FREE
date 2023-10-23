@@ -2,8 +2,4 @@
 2:server
 3:login
 4:main
-5:main3
-6:main4
-7:main5
-8:main6
-9:mainFree
+
